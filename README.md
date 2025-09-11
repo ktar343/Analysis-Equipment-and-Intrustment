@@ -1,7 +1,7 @@
 # Analysis-Equipment-and-Intrustment
 **XRD**, XPS, **UV-vis**, FT-IR, SEM-EDS, TEM etc..
 
-Welcome to my area
+Welcome to my area. <br>
 This page relate to Analysis equipment which I used to use before or study
 
 ## XRD
@@ -21,8 +21,8 @@ The Cobalt Oxide was sysntehized after calcinating the ZIF-67 at 600 degree(celc
 #### [NCM cathode XRD peak]
 <img width="687" height="583" alt="image" src="https://github.com/user-attachments/assets/8eeea970-aa84-4a8e-9161-e138f6da44cb" />
 
-The data was plotted by Origin
-To confirm the properties of NCM cathode which unidentifed, We use the Powder X-ray Diffraction at Yonsei Univeresity
+The data was plotted by Origin. <br>
+To confirm the properties of NCM cathode which unidentified, We use the Powder X-ray Diffraction at Yonsei Univeresity.
 By comparing reference data, We can confirim that this sample is Ni_0.65 Co_0.25 Mn_0.1
 
 ## UV-vis
