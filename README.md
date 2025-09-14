@@ -28,4 +28,11 @@ By comparing reference data, We can confirim that this sample is Ni_0.65 Co_0.25
 
 ## UV-vis
 
+
 ## FT-IR
+<img width="850" height="580" alt="image" src="https://github.com/user-attachments/assets/eda2b09f-3906-46e4-a1bc-384967f037c3" /> <br>
+The Membrane FT-IR data to cofirm the PE and Boehmite.
+
+## EIS(Electrochemical Impendance Spectroscopy)
+<img width="971" height="658" alt="image" src="https://github.com/user-attachments/assets/f5ac7836-39a1-44ae-ade6-91d1b8de12ad" /> <br>
+The EIS data of Cylindrical NCM battery 
